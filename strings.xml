@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Country App</string>
+    <array name="Presensi">
+        <item>Tepat Waktu</item>
+        <item>Terlambat</item>
+        <item>Sakit</item>
+        <item>Izin</item>
+        <item>Alpa</item>
+    </array>
+    <string name="btn_submit">Submit</string>
+</resources>
